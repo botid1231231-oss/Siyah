@@ -54,8 +54,8 @@ onReply: async function({ api, event, Reply, getLang, commandName, prefix }) {
 ╰──────────────⭓
 ╭──────────────⭓
 │➜ 𝐎𝐭𝐡𝐞𝐫 𝐃𝐞𝐭𝐚𝐢𝐥𝐬⚠️
-│Owner : 𝐓 𝐀 𝐍 𝐉 𝐈 𝐋
-│FB : Ťåñjïł Hāšāń Æßp 
+│Owner : SIYUUUUUUUUU👑
+│FB : SÎ Y Âm
 ╰──────────────⭓`, Reply.pending[ArYanIndex - 1].threadID);
             count+=1;
         }
